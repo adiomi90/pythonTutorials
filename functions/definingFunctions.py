@@ -6,7 +6,7 @@ def greet(first_name, last_name):
 greet("Molecular", "Particles")
 greet("John", "Smith")
 
-
+# returns a value
 def greet2(name):
     return f"Hi {name}"
 
