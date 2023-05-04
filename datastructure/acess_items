@@ -1,0 +1,9 @@
+# letters = ["a","b","c","d"]
+# letters[0] = "A"
+
+# print(letters)
+# print(letters[-1]) return all items in reverse order
+# print(letters[0:3])
+
+numbers = list(range(1,30))
+print(numbers[::8])
