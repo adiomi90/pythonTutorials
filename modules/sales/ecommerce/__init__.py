@@ -1,0 +1,1 @@
+print("ecommerce initialize", __name__)

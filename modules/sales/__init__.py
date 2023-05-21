@@ -1,0 +1,1 @@
+print("Sales initialized", __name__)
